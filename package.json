@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.5.4",
+    "express": "^4.13.1",
     "less": "^2.5.1",
     "less-loader": "^2.2.0",
     "react": "^0.13.3",
