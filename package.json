@@ -1,0 +1,24 @@
+{
+  "name": "reactRouterExample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.5.4",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^4.7.8",
+    "babel-core": "^4.7.8",
+    "babel-loader": "^4.1.0",
+    "webpack": "^1.7.2"
+  }
+}
